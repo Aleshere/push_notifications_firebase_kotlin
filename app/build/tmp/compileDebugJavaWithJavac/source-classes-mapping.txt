@@ -1,0 +1,2 @@
+com/raywenderlich/android/drinkit/BuildConfig.java
+ com.raywenderlich.android.drinkit.BuildConfig

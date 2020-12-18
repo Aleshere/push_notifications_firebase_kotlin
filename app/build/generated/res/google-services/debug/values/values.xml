@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">240970626606-b4dcum6vch8ab9h147t4629mvf78p3dk.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">240970626606</string>
+    <string name="google_api_key" translatable="false">AIzaSyDU6uTXfxYwo24-LlwNGsvhg7YW432kLpQ</string>
+    <string name="google_app_id" translatable="false">1:240970626606:android:0cfc79026349d7a66a51bf</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDU6uTXfxYwo24-LlwNGsvhg7YW432kLpQ</string>
+    <string name="google_storage_bucket" translatable="false">drink-it-eb412.appspot.com</string>
+    <string name="project_id" translatable="false">drink-it-eb412</string>
+</resources>
